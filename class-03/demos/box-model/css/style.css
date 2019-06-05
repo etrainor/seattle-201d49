@@ -1,0 +1,36 @@
+main {
+    margin-top:40px;
+}
+nav {
+    background: #111;
+    display:block;
+    opacity: .75;
+    overflow:hidden;
+    position:fixed;
+    top:0;
+    left:0;
+    width: 100%;
+}
+ul {
+    float:right;
+    overflow:hidden;
+}
+
+li {
+    float:left;
+    /* display:inline-block; */
+    margin: 5px;
+    padding: 5px;
+}
+
+/* Source: http://... */
+nav {
+    background: #ccc;
+    display: block;
+    opacity: .5;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
