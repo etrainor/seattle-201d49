@@ -4,6 +4,16 @@
 
 Today in lab you will fork and clone a GitHub repo, and then create solutions to some code problems such that your solutions pass the included tests.
 
+## Repository
+https://github.com/codefellows/seattle-201d49-lab05a
+* Fork This Repository
+* Clone it to your computer
+* Create a new branch
+* Work in and 'ACP' your branch frequently
+* When you are done, push to your branch at github
+* Create a "PR" against YOUR fork (not the original) master and merge it.
+
+
 **Be sure to follow instructions carefully.**
 
 Here are a couple of things to keep in mind:
