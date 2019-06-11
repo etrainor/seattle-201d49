@@ -1,0 +1,42 @@
+table {
+    margin: auto;
+    width: 75%;
+}
+
+th {
+    font-weight: bold;
+    padding: .4em;
+    text-align: left;
+    text-decoration: underline;
+}
+
+td {
+    font-style: italic;
+    padding: .25em;
+}
+
+tr td:first-child {
+    background: #800000;
+    color: white;
+}
+
+td.numeric {
+    text-align: right;
+}
+
+tr {
+    border-bottom: 1px solid #111;
+}
+
+tr:nth-child(even) {
+    background: #ccc;
+}
+
+thead {
+    background: #ccc;
+}
+
+tfoot {
+    background: #201d49;
+    color: ivory;
+}
