@@ -22,6 +22,7 @@ Person.prototype.walk = function() {
 };
 
 
+
 /*
   var john = {
     name: 'John',
