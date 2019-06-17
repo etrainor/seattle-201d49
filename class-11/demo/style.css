@@ -1,0 +1,10 @@
+.video-container {
+    height: 440px;
+    opacity: .25;
+    overflow: hidden;
+}
+
+img {
+    display: block;
+    width: 125px;
+}
