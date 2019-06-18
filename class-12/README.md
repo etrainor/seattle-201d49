@@ -24,9 +24,10 @@ As a result of completing Lecture 12 of Code 201, students will:
 Read the following articles on the Canvas API.
 
 - [Basic usage](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
-- [Drawing shapes with canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+- [Drawing shapes with canvas](https://www.sitepoint.com/basic-animation-with-canvas-and-javascript/)
 - [Applying styles and colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
 - [Drawing text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
+- [Canvas Demos](https://davidwalsh.name/canvas-demos)
 
 **Look over the ChartJS documentation**
 
