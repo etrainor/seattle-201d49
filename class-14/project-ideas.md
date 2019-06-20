@@ -16,22 +16,23 @@
 ## Groups
 
 ### Group 1
--
--
--
--
+- Leyla
+- Corey
+- Quang
+- Sam
 
 ### Group 2
--
--
--
--
+- Eric
+- Hanna
+- Ben
+- Elle
+
 
 ### Group 3
--
--
--
--
+- Sarah
+- Lindsey
+- Jonathan
+- Gina
 
 ### Project Ideas
 
