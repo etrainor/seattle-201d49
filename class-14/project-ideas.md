@@ -4,6 +4,7 @@
 
 * HTML, CSS, JS
 * "interactive"
+* "look amazing"
 * Use Local Storage
 * Use one thing we didn't teach you!
 * Multi-Page
