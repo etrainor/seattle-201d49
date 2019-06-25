@@ -4,6 +4,7 @@
 
 * HTML, CSS, JS
 * "interactive"
+* "look amazing"
 * Use Local Storage
 * Use one thing we didn't teach you!
 * Multi-Page
@@ -15,22 +16,23 @@
 ## Groups
 
 ### Group 1
--
--
--
--
+- Leyla
+- Corey
+- Quang
+- Sam
 
 ### Group 2
--
--
--
--
+- Eric
+- Hanna
+- Ben
+- Elle
+
 
 ### Group 3
--
--
--
--
+- Sarah
+- Lindsey
+- Jonathan
+- Gina
 
 ### Project Ideas
 
