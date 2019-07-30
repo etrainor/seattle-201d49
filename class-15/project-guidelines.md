@@ -1,7 +1,33 @@
 ![CF](https://i.imgur.com/7v5ASc8.png)
 # Code Fellows Project Guidelines
 
-Welcome to Project Week! Here is a list of Code Fellows' best practices for proper Git and GitHub workflow with your project team.
+## Welcome to Project Week!
+
+### Requirements
+
+* HTML, CSS, JS
+* "interactive"
+* Use Local Storage
+* Use one thing we didn't teach you!
+* Multi-Page
+  * Main/App/Game
+  * Scores Page for Games
+  * About Us Page
+
+### Presentations
+* Powerpoint Style
+* Everyone Speaks
+* Slides:
+  * Project Description
+  * One Slide Per Person (you say your elevator pitch)
+  * Demo
+  * Wins
+  * Struggles
+  * Looking Ahead
+  * Q&A
+
+
+##  Here is a list of Code Fellows' best practices for proper Git and GitHub workflow with your project team.
 
 <a id="top"></a>
 - [Planning phase](#planning-phase)
@@ -28,7 +54,7 @@ Welcome to Project Week! Here is a list of Code Fellows' best practices for prop
 
 <a id="planning-phase"></a>
 ## Planning Phase
-Before writing any code, take time to plan with your team. Make sure you are all in agreement about the goals of your application. Once you settle on an idea, prepare to pitch your idea to your instructor. 
+Before writing any code, take time to plan with your team. Make sure you are all in agreement about the goals of your application. Once you settle on an idea, prepare to pitch your idea to your instructor.
 
 _Why:_
 > When you take the time to plan your project, you ensure that the entire team is on the same page. It can also help you identify any potential problems and how to solve them. It is easier to handle these problems now, instead of when you're in the middle of project week.
@@ -67,7 +93,7 @@ As a team, create a Group Agreement as a markdown file to document the following
 * How and when will you escalate the conflict if your attempts are unsuccessful?
 
 #### <a id="communication">Communication Plan</a>
-Before beginning to write code, determine how your group will communicate with each other, both in person and online. 
+Before beginning to write code, determine how your group will communicate with each other, both in person and online.
 
 _Why:_
 > This is not an individual effort. Make sure everyone knows how the group will communicate with each other and that everyone feels comfortable speaking up.
@@ -91,7 +117,7 @@ Once you are ready, find your instructor and pitch your idea.
 
 <a id="project-organization"></a>
 ## Project Organization
-Use GitHub to organize and manage your project. 
+Use GitHub to organize and manage your project.
 
 _Why:_
 > The group must have a central location where they can share code in a professional manner. This will ensure that everyone's contributions are tracked appropriately and can be combined with the team's code base.
@@ -105,10 +131,10 @@ Populate your project with issues. Each issue should be a small item, typically 
 _Why:_
 > Issues are userful for managing small features that an individual or pair can reasonably tackle in a short period of time. The project board creates a clear visual of the team's current tasks and the current project status.
 
-When using GitHub issues, there is the added benefit of being able to close an issue through a commit message or a comment on a pull request (PR). For example, a commit message or comment can say "Closes #42" and the issue will automatically be closed when the pull request is merged. Github recognizes the following keywords to close an issue: `close`, `closes`, `closed`, `fixes`, and `fixed`. 
+When using GitHub issues, there is the added benefit of being able to close an issue through a commit message or a comment on a pull request (PR). For example, a commit message or comment can say "Closes #42" and the issue will automatically be closed when the pull request is merged. Github recognizes the following keywords to close an issue: `close`, `closes`, `closed`, `fixes`, and `fixed`.
 
 _Why:_
-> Each PR will be associated with related issues, making it easier to look at a specific PR and identify the specific issues it addresses. 
+> Each PR will be associated with related issues, making it easier to look at a specific PR and identify the specific issues it addresses.
 
 You are welcome to use other project management tools besides GitHub Projects, but your code base must be on GitHub.
 
@@ -141,7 +167,7 @@ _Why:_
 ## Documentation
 Your project should be documented on GitHub and within your code base.
 
-On GitHub, create a `README.md` file as the main landing document of your repository. Continue to update it as your project evolves. 
+On GitHub, create a `README.md` file as the main landing document of your repository. Continue to update it as your project evolves.
 
 _Why:_
 > Projects should contain proper documentation so that anyone can visit your repository and understand the purpose of your application.

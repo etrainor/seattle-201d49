@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>Tables FTW</head>
+<link rel="stylesheet" href="reset.css" />
+<link rel="stylesheet" href="styles.css" />
+
+<body>
+  <main>
+
+    <table>
+
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Nickname</th>
+          <th>Age</th>
+          <th>Car</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>John</td>
+          <td>Baldy</td>
+          <td class="numeric">50</td>
+          <td>Mazda</td>
+        </tr>
+        <tr>
+          <td>Cathy</td>
+          <td>Cat</td>
+          <td>NaN</td>
+          <td>GMC</td>
+        </tr>
+        <tr>
+          <td>Zach</td>
+          <td>Z</td>
+          <td>20</td>
+          <td>Ford</td>
+        </tr>
+        <tr>
+          <td>Allie</td>
+          <td>Gator</td>
+          <td>13</td>
+          <td>None</td>
+        </tr>
+      </tbody>
+
+      <tfoot>
+        <tr>
+          <td colspan="4">Meet the Cokos' Family</td>
+        </tr>
+      </tfoot>
+
+    </table>
+
+    <hr />
+
+    <table>
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Nickname</th>
+          <th>Age</th>
+          <th>Car</th>
+        </tr>
+      </thead>
+
+      <tbody id="familyBody">
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="4">Meet the Cokos' Family</td>
+        </tr>
+      </tfoot>
+    </table>
+
+  </main>
+  <script src="app.js"></script>
+</body>
+
+</html>
